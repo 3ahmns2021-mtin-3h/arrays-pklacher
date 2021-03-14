@@ -1,22 +1,22 @@
-# Template2D-Unity202015f1
+# arrays-pklacher
 
 ### Project description: 
-Introduction/Project summary 
+Project to try out first things with arrays.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity Version 2020.1.5f1, Visual Studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 960x600
 
 ### Visuals: 
 Screenshots (concept and experience), Video
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+none
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+none
 
 ### Project state: 
 incl. progress in percent
@@ -25,4 +25,7 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+<ul>
+  <li> How to declarate Arrays</li>
+</ul>
+Copyright by Pia Lacher
