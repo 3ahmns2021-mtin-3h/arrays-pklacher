@@ -19,10 +19,10 @@ none
 none
 
 ### Project state: 
-incl. progress in percent
+just started
 
 ### Limitations: 
-
+Doesn't work because I didn't get what to do.
 ### Lessons Learned: 
 
 <ul>
