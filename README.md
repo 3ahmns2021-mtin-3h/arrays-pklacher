@@ -10,7 +10,10 @@ Windows 10, Unity Version 2020.1.5f1, Visual Studio 2019
 WebGL, reference resolution 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src="./Screenshots/Code.JPG" width="400" padding="10px">
+<img src="./Screenshots/Unity.JPG" width="500" margin="10px">
+</div>
 
 ### Necessary setup/execution steps: 
 none
@@ -19,13 +22,16 @@ none
 none
 
 ### Project state: 
-just started
+Finished
 
 ### Limitations: 
-Doesn't work because I didn't get what to do.
+none
+
 ### Lessons Learned: 
 
 <ul>
   <li> How to declarate Arrays</li>
+  <li> How to print arrays in console</li>
 </ul>
+<br>
 Copyright by Pia Lacher
